@@ -7,3 +7,9 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Environment & Secrets
+.env
+*.env
+!.env.example
+
